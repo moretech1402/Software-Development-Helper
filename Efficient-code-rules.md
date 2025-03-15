@@ -11,7 +11,7 @@ Este documento contiene reglas objetivas que sigo para escribir y refactorizar c
 3. **Si una clase supera las 100 líneas**, intento dividirla. Puede llegar hasta **500 líneas**, pero nunca más.
 4. **Desarrollo solo la funcionalidad que necesito ahora**, sin preocuparme demasiado por el futuro.
 5. **Aplico la estrategia del Boy Scout** → Siempre intento dejar el código mejor de como lo encontré.
-6. **Si escribo algo dos veces, lo abstraigo inmediatamente**. Aunque lo recomendado es tres
+6. **Si escribo algo dos veces, lo abstraigo inmediatamente**. Aunque lo recomendado es tres.
 
 ---
 
